@@ -34,7 +34,7 @@ export default function Footer() {
           <ul className="footer-contact">
             <li><MapPin size={18} /> KCCITM, UTTAR PRADESH, INDIA</li>
             <li><Phone size={18} /> 957210XXXX</li>
-            <li><Mail size={18} /> sk49946144@gmail.com</li>
+            <li><Mail size={18} /> govbridge@gmail.com</li>
           </ul>
         </div>
         
